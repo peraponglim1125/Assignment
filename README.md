@@ -28,3 +28,6 @@
 แสดงหน้า Login ของ Grafana สำหรับระบบ Monitoring
 
 ![Grafana](https://drive.google.com/uc?id=1MapNsTtdOtI2ev80_xuBYp3AmNshaA3P)
+
+## Map Domain ใน hosts file
+![Map](https://drive.google.com/uc?export=view&id=1Q9gJ2Qow2LZPo7ZcrkFUs6keGlprb8Y2)
